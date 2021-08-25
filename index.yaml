@@ -11,7 +11,6 @@ entries:
     urls:
     - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.3.0/hip-0.3.0.tgz
     version: 0.3.0
-    generated: "2021-08-25T22:28:46.973840649+05:30"
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-08-26T00:32:39.477636355+05:30"
@@ -22,4 +21,4 @@ entries:
     urls:
     - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.3.1/hip-0.3.1.tgz
     version: 0.3.1
-    generated: "2021-08-26T00:32:39.477643865+05:30"
+generated: "2021-08-26T00:32:39.477643865+05:30"
