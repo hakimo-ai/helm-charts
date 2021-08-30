@@ -3,7 +3,27 @@ entries:
   hip:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-25T22:28:46.973832359+05:30"
+    created: "2021-08-30T17:59:34.117476122+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 29ba4dfa714de6eb590c2333b56f53e7506ea4b71f9d3f5152933e4271046ece
+    name: hip
+    type: application
+    urls:
+    - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.4.0/hip-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-30T17:59:33.830439404+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f76f4749648b6cc78611a948cbf267f42103cfb5f732392828fa2ef0ab458873
+    name: hip
+    type: application
+    urls:
+    - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.3.1/hip-0.3.1.tgz
+    version: 0.3.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-30T17:59:33.537107122+05:30"
     description: A Helm chart for Kubernetes
     digest: c54192606dd689523e4e0cd32d76f3447933474c5aa84bcd919a95e0c565fff9
     name: hip
@@ -13,12 +33,12 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-26T00:32:39.477636355+05:30"
+    created: "2021-08-30T17:59:33.247818734+05:30"
     description: A Helm chart for Kubernetes
-    digest: f76f4749648b6cc78611a948cbf267f42103cfb5f732392828fa2ef0ab458873
+    digest: 8b461cce7472b8a0362d556b57572bff3d2a54b4258ec0c4149d4c26c8237d9d
     name: hip
     type: application
     urls:
-    - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.3.1/hip-0.3.1.tgz
-    version: 0.3.1
-generated: "2021-08-26T00:32:39.477643865+05:30"
+    - https://github.com/hakimo-ai/helm-charts/releases/download/hip-0.2.0/hip-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-08-30T17:59:34.117489092+05:30"
